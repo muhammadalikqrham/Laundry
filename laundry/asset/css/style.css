@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.container-admin {
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.kiri {
+    float: left;
+}
+
+.navbar {
+    height: 100px;
+}
+
+.enter-admin {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.enter-index {
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.warna {
+    color: white;
+    margin: 15px 0;
+}
+
+.header {
+    margin: 10px;
+    overflow: hidden;
+    height: 100%;
+    margin-bottom: 100px;
+}
+
+.center {
+    margin-top: 75px;
+}
+
+.konten {
+    width: 100%;
+    height: 100%;
+    background-color: #6a89cc;
+}
+
+.box {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: solid 1px black;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.masukan {
+    margin: 15px;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+}
+
+.tengah {
+    padding-top: 80px;
+    padding-left: 280px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 50px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
